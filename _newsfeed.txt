@@ -1,0 +1,14 @@
+	WannaPlay v 0.2 (18.11.2019)
+Naprawione:
+ - zapychanie bazy danych (przy zmianie statusu usuwa się poprzedni rekord)
+ - złe pozycjonowanie
+ - optymalizacja kodu
+ 
+ Dodane:
+  - zmiana koloru przewodniego
+  - automatyczne odłączanie osób zalogowanych dnia poprzedniego
+  - cień przycisku na klawisze
+  - nowy ekran logowania wraz ze zmianą systemu logowania
+  - zapisywanie konta na telefonie
+  - dodano ikonkę
+  - automatyczne pobieranie aktualizacji (plik z przeglądarki)
